@@ -56,7 +56,6 @@ Please click on 'Finish', so your Thunderbird instance opens with the below popu
 ![](http://hdoc.csirt-tooling.org/uploads/upload_62d01b8ea7e84ab7cd14a4bd74dfcae4.png)
 
 As the last step of the installation, you can set Thunderbird as the default client for your email, newsgroup, feeds and calendar. You can make these settings default (by checking or unchecking the relevant checkbox and clicking on ' Set as default'). Alternatively, you can choose 'Skip integration' if you do not want these options.
-<<<<<<< HEAD:Thunderbird Documentation.md
 
 # Thunderbird UI Personalisation
 
@@ -206,5 +205,3 @@ In the Settings window, choose the 'Privacy and Security' option on the left, sc
 For further information on Thunderbird’s spam filter settings, please follow the [Thunderbird and Junk/Spam Messages](https://support.mozilla.org/en-US/kb/thunderbird-and-junk-spam-messages) link.
 
 The Thunderbird-related knowledgebase can be found on the [Thunderbird Support](https://support.mozilla.org/en-US/products/thunderbird) page – for further details.
-=======
->>>>>>> 2f3b5240ebf887453da18c71b042d2dca944a803:Thunderbird Documentation I.md
