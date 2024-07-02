@@ -19,7 +19,7 @@ Do not hesitate to take an active part in this project and share your experience
 ## Map Of Contents
 
 **Cybersecurity and remote activities**
-  *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/blob/main/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
+  *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
   * Risks related to the use of online applications
 
 **Security Operations**
