@@ -45,7 +45,7 @@ Do not hesitate to take an active part in this project and share your experience
 
 
 The below maybe can be used for further editing:
-1. [**Installation**](https://attilacsontos.github.io/OSD4ISO/blob/main/Security_of_Operations/Email/Installation.md)  (How to install Thunderbird?)
+1. [**Installation**](https://attilacsontos.github.io/OSD4ISO/blob/main/Security_of_Operations/Email/Installation)  (How to install Thunderbird?)
 2. **Personalisation** (Thunderbird UI Personalisation)
 3. **IMAP email setup** (How to set up an IMAP email account in Thunderbird?)
 4. **Zimbra Calendar** in Thunderbird (How to connect your Zimbra calendar to Thunderbird?)
