@@ -30,13 +30,13 @@ Do not hesitate to take an active part in this project and share your experience
     * Editors usage for Markdown writing
     * VS Code basic operations for a writer
   * Email
-    * [**Email Encryption**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Email_Encryption)
-    * [**IMAP Email Setup**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/IMAP_Email_Setup)
     * [**Installation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Installation)
+    * [**IMAP Email Setup**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/IMAP_Email_Setup)
     * [**Personalisation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Personalisation)
     * [**SPAMBEE**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/SPAMBEE)
     * [**Zimbra Calendar**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Calendar)
     * [**Zimbra Contacts**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Contacts)
+    * [**Email Encryption**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Email_Encryption)
   * GitHub
     * Build a community-centered documentation
     * Github Pages - Usage and collaboration
