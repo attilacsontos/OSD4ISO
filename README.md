@@ -42,16 +42,3 @@ Do not hesitate to take an active part in this project and share your experience
     * Github Pages - Usage and collaboration
   * Video Conferences
     * Security of Video-conferencing Practices
-
-
-The below maybe can be used for further editing:
-1. [**Installation**](https://attilacsontos.github.io/OSD4ISO/blob/main/Security_of_Operations/Email/Installation)  (How to install Thunderbird?)
-2. **Personalisation** (Thunderbird UI Personalisation)
-3. **IMAP email setup** (How to set up an IMAP email account in Thunderbird?)
-4. **Zimbra Calendar** in Thunderbird (How to connect your Zimbra calendar to Thunderbird?)
-5. **Zimbra Contacts** in Thunderbird (How to connect your Zimbra contacts to Thunderbird?)
-6. **SPAMBEE** and Thunderbird (How to install SPAMBEE on Thunderbird?)
-
-## II. Email encryption in Thunderbird
-
-1. **Email encryption** in Thunderbird (How to use email encryption in Thunderbird?)
