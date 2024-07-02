@@ -20,7 +20,7 @@ Do not hesitate to take an active part in this project and share your experience
 
 **Cybersecurity and remote activities**
   *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
-  * Risks related to the use of online applications
+  *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
 
 **Security Operations**
   * Why backup is essential
@@ -30,13 +30,13 @@ Do not hesitate to take an active part in this project and share your experience
     * Editors usage for Markdown writing
     * VS Code basic operations for a writer
   * Email
-    * Email Encryption
-    * IMAP Email Setup
-    * Installation
-    * Personalisation
-    * SPAMBEE
-    * Zimbra Calendar
-    * Zimbra Contacts
+    * [**Email Encryption**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Email_Encryption)
+    * [**IMAP Email Setup**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/IMAP_Email_Setup)
+    * [**Installation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Installation)
+    * [**Personalisation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Personalisation)
+    * [**SPAMBEE**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/SPAMBEE)
+    * [**Zimbra Calendar**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Calendar)
+    * [**Zimbra Contacts**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Contacts)
   * GitHub
     * Build a community-centered documentation
     * Github Pages - Usage and collaboration
