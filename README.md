@@ -1,6 +1,6 @@
 # OSD4ISO (Open Security Documentation for Individual and Small Organisations)
 
-## This project aims to build community-centered documentation for freelancers, remote workers, and SOHO (Small Office/Home Office) workers to help them securely and safely operate online.
+## This project aims to build community-centred documentation for freelancers, remote workers, and SOHO (Small Office/Home Office) workers to help them securely and safely operate online.
 
 Individuals and SOHO workers are as exposed to online risks as anyone else. However, they often lack the resources to afford the security solutions and services available to more resourced entities.
 
@@ -23,7 +23,8 @@ Do not hesitate to take an active part in this project and share your experience
   *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
 
 **Security Operations**
-  * Why backup is essential
+  * [**Backup strategies for self-employed individuals**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/Backup_strategies_for_self-employed_individuals)
+  * [**Why backup is essential**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/The_importance_of_backup)
 
 **Security of Operations**
   * Editor
