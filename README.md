@@ -28,8 +28,8 @@ Do not hesitate to take an active part in this project and share your experience
 
 **Security of Operations**
   * Editor
-    * Editors usage for Markdown writing
-    * VS Code basic operations for a writer
+    * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/VS_Code_basic_operations_for_a_writer)
+    * [**VS Code basic operations for a writer**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/VS_Code_basic_operations_for_a_writer)
   * Email
     * [**Installation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Installation)
     * [**IMAP Email Setup**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/IMAP_Email_Setup)
@@ -42,4 +42,4 @@ Do not hesitate to take an active part in this project and share your experience
     * Build a community-centered documentation
     * Github Pages - Usage and collaboration
   * Video Conferences
-    * Security of Video-conferencing Practices
+    * [**Security of Video-conferencing Practices**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Video_conferences/Security_of_Video-conferencing_Practices)
