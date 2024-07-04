@@ -28,7 +28,7 @@ Do not hesitate to take an active part in this project and share your experience
 
 **Security of Operations**
   * Editor
-    * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/VS_Code_basic_operations_for_a_writer)
+    * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/Editors_usage_for_Markdown_writing)
     * [**VS Code basic operations for a writer**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/VS_Code_basic_operations_for_a_writer)
   * Email
     * [**Installation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Installation)
