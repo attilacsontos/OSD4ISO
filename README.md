@@ -18,19 +18,19 @@ Do not hesitate to take an active part in this project and share your experience
 
 ## Map Of Contents
 
-**Cybersecurity and remote activities**
+**CYBERSECURITY AND REMOTE ACTIVITIES**
   *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
   *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
 
-**Security Operations**
+**SECURITY OPERATIONS**
   * [**Backup strategies for self-employed individuals**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/Backup_strategies_for_self-employed_individuals)
   * [**Why backup is essential**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/The_importance_of_backup)
 
-**Security of Operations**
-  * Editor
+**SECURITY OF OPERATIONS**
+  * **Editor**
     * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/Editors_usage_for_Markdown_writing)
     * [**VS Code basic operations for a writer**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/VS_Code_basic_operations_for_a_writer)
-  * Email
+  * **Email**
     * [**Installation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Installation)
     * [**IMAP Email Setup**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/IMAP_Email_Setup)
     * [**Personalisation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Personalisation)
@@ -38,8 +38,9 @@ Do not hesitate to take an active part in this project and share your experience
     * [**Zimbra Calendar**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Calendar)
     * [**Zimbra Contacts**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Contacts)
     * [**Email Encryption**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Email_Encryption)
-  * GitHub
+  * **GitHub**
+    * [**Git and GitHub**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/GitHub/Git_and_GitHub)
     * Build a community-centered documentation
     * Github Pages - Usage and collaboration
-  * Video Conferences
+  * **Video Conferences**
     * [**Security of Video-conferencing Practices**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Video_conferences/Security_of_Video-conferencing_Practices)
