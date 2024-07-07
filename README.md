@@ -18,6 +18,19 @@ Do not hesitate to take an active part in this project and share your experience
 
 ## Map Of Contents
 
+**BUILDING A COMMUNITY CENTERED DOCUMENTATION**
+
+* **GitHub**
+    * 
+    * Build a community-centered documentation
+    * [**Git and GitHub**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/Git_and_GitHub)
+    * Github Pages - Usage and collaboration
+    * How to use GitHub Pages and Markdown
+
+
+
+
+
 **CYBERSECURITY AND REMOTE ACTIVITIES**
   *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
   *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
@@ -38,9 +51,6 @@ Do not hesitate to take an active part in this project and share your experience
     * [**Zimbra Calendar**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Calendar)
     * [**Zimbra Contacts**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Zimbra_Contacts)
     * [**Email Encryption**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Email_Encryption)
-  * **GitHub**
-    * [**Git and GitHub**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/GitHub/Git_and_GitHub)
-    * Build a community-centered documentation
-    * Github Pages - Usage and collaboration
+  
   * **Video Conferences**
     * [**Security of Video-conferencing Practices**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Video_conferences/Security_of_Video-conferencing_Practices)
