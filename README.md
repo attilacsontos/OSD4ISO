@@ -32,6 +32,7 @@ Do not hesitate to take an active part in this project and share your experience
 
 **CYBERSECURITY AND REMOTE ACTIVITIES**
   *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
+  *  [**Risk_Assessment_for_SOHOs_and_Freelancers**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risk_Assessment_for_SOHOs_and_Freelancers)
   *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
 
 **SECURITY OPERATIONS**
