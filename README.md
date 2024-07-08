@@ -26,6 +26,10 @@ Do not hesitate to take an active part in this project and share your experience
     * Github Pages - Usage and collaboration
     * [**How to use GitHub Pages and Markdown**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/How_to_use_GitHub_Pages_and_Markdowm)
 
+  * **Editor**
+    * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/Editor/Editors_usage_for_Markdown_writing)
+    * [**VS Code basic operations for a writer**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/Editor/VS_Code_basic_operations_for_a_writer)
+
 **CYBERSECURITY AND REMOTE ACTIVITIES**
   *  [**Cybersecurity and freelancing**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Cybersecurity_and_freelancing)
   *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
@@ -35,9 +39,7 @@ Do not hesitate to take an active part in this project and share your experience
   * [**Why backup is essential**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/The_importance_of_backup)
 
 **SECURITY OF OPERATIONS**
-  * **Editor**
-    * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/Editors_usage_for_Markdown_writing)
-    * [**VS Code basic operations for a writer**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Editor/VS_Code_basic_operations_for_a_writer)
+
   * **Email**
     * [**Installation**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/Installation)
     * [**IMAP Email Setup**](https://attilacsontos.github.io/OSD4ISO/Security_of_Operations/Email/IMAP_Email_Setup)
