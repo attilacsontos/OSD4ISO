@@ -18,6 +18,26 @@ Do not hesitate to take an active part in this project and share your experience
 
 ## Map Of Contents
 
+**COLLABORATIVE WRITING ON GITHUB**
+
+1. [**1. Why use GitHub for collaboration?**] (https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Why_use_GitHub_for_collaboration)
+2. [**2. How to use Git and GitHub for collaboration?**]
+3. [**3. Why do you need Git and GitHub?**]
+4. [**4. How to set up your first project?**]
+5. [**5. The VS Code-GitHub workflow**]
+6. [**6. Using GitHub exclusively**]
+7. [**7. Using GitHub exclusively-Forking**]
+8. [**8. Using GitHub exclusively-Forking: a step-by-step guide**]
+[**9. Using GitHub exclusively-Collaborator**]
+[**10. Using GitHub exclusively-Collaborator: a step-by-step guide**]
+[**11. How to add images to your project?**]
+[**12. Conclusions and_Appendix**]
+
+
+
+
+
+
 **BUILDING A COMMUNITY CENTERED DOCUMENTATION**
 
 * **GitHub**
