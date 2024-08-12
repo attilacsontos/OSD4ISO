@@ -1,4 +1,4 @@
-# OSD4ISO (Open Security Documentation for Individual and Small Organisations)
+# OSD4ISO (Open Security Documentation for Individuals and Small Organisations)
 
 ## This project aims to build community-centred documentation for freelancers, remote workers, and SOHO (Small Office/Home Office) workers to help them securely and safely operate online.
 
