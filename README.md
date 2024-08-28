@@ -20,7 +20,7 @@ Do not hesitate to take an active part in this project and share your experience
 
 **COLLABORATIVE WRITING ON GITHUB**
 
-1. [**How to use GitHub for collaboration?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/1_How_to_use_GitHub_for_collaboration)
+1. [**How to use GitHub for collaboration?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/1_Why_use_GitHub_for_collaboration)
 1. [**How to use Git and GitHub for collaboration?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/How_to_use_Git_and_GitHub_for_collaboration)
 1. [**Why do you need Git and GitHub?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Why_do_you_need_Git_and_GitHub)
 1. [**How to set up your first project?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/How_to_set_up_your_first_project)
