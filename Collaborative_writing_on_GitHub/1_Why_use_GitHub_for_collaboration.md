@@ -1,5 +1,3 @@
-# TEST
-
 # Why use GitHub for collaboration?
 
 GitHub offers an array of collaborative features, including Wikis and integrated bug tracking. Functioning as both a code repository and a social network, GitHub hosts a multitude of open-source projects.
