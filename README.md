@@ -21,17 +21,17 @@ Do not hesitate to take an active part in this project and share your experience
 **COLLABORATIVE WRITING ON GITHUB**
 
 1. [**Why use GitHub for collaboration?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/1_Why_use_GitHub_for_collaboration)
-1. [**How to use Git and GitHub for collaboration?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/How_to_use_Git_and_GitHub_for_collaboration)
-1. [**Why do you need Git and GitHub?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Why_do_you_need_Git_and_GitHub)
-1. [**How to set up your first project?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/How_to_set_up_your_first_project)
-1. [**The VS Code-GitHub workflow**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/The_VS_Code-GitHub_workflow)
-1. [**Using GitHub exclusively**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Using_GitHub_exclusively)
-1. [**Using GitHub exclusively-Forking**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Using_GitHub_exclusively-Forking)
-1. [**Using GitHub exclusively-Forking: a step-by-step guide**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Using_GitHub_exclusively-Forking_Step-by-step_Guide)
-1. [**Using GitHub exclusively-Collaborator**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Using_GitHub_exclusively-Collaborator)
-1. [**Using GitHub exclusively-Collaborator: a step-by-step guide**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Using_GitHub_exclusively-Collaborator_Step-by-step_Guide)
-1. [**How to add images to your project?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/How_to_add_images_to_your_project)
-1. [**Conclusions and_Appendix**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/Conclusions_and_Appendix)
+1. [**How to use Git and GitHub for collaboration?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/2_How_to_use_Git_and_GitHub_for_collaboration)
+1. [**Why do you need Git and GitHub?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/3_Why_do_you_need_Git_and_GitHub)
+1. [**How to set up your first project?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/4_How_to_set_up_your_first_project)
+1. [**The VS Code-GitHub workflow**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/5_The_VS_Code-GitHub_workflow)
+1. [**Using GitHub exclusively**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/6_Using_GitHub_exclusively)
+1. [**Using GitHub exclusively-Forking**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/7_Using_GitHub_exclusively-Forking)
+1. [**Using GitHub exclusively-Forking: a step-by-step guide**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/8_Using_GitHub_exclusively-Forking_Step-by-step_Guide)
+1. [**Using GitHub exclusively-Collaborator**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/9_Using_GitHub_exclusively-Collaborator)
+1. [**Using GitHub exclusively-Collaborator: a step-by-step guide**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/10_Using_GitHub_exclusively-Collaborator_Step-by-step_Guide)
+1. [**How to add images to your project?**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/11_How_to_add_images_to_your_project)
+1. [**Conclusions and_Appendix**](https://attilacsontos.github.io/OSD4ISO/Collaborative_writing_on_GitHub/12_Conclusions_and_Appendix)
 
 
 **BUILDING A COMMUNITY CENTERED DOCUMENTATION**
