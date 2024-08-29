@@ -14,6 +14,7 @@ It is perhaps one of the simplest methods; however, it has a significant drawbac
 
 Besides that, you need to be aware of the syntax of adding an image in a markdown file, which is as follows:
 
+
 **![Alt text](/relative path of the image/img.jpg "Optional title")**
 
 **![Alt text] (/posts/path/to/img.jpg "Optional title")**
