@@ -52,8 +52,13 @@ Do not hesitate to take an active part in this project and share your experience
   *  [**Risks related to the use of online applications**](https://attilacsontos.github.io/OSD4ISO/Cybersecurity_and_remote_activities/Risks_related_to_the_use_of_online_applications)
 
 **SECURITY OPERATIONS**
+
+**Backup**
   * [**Backup strategies for self-employed individuals**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/Backup_strategies_for_self-employed_individuals)
   * [**Why backup is essential**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/Backup/The_importance_of_backup)
+
+**VPN**
+ * [**The_importance_of_using_VPN**](https://attilacsontos.github.io/OSD4ISO/Security_Operations/VPN/The_importance_of_using_VPN)
 
 **SECURITY OF OPERATIONS**
 
