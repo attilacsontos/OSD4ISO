@@ -15,5 +15,3 @@ The purpose of the OSD4ISO project is to show and demonstrate, from the perspect
 # Structure of the documentation
 
 This documentation is made of 12 separate pages. Each of them addresses a precise aspect of the work with Github.
-
-## Summary 
