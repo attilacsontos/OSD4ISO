@@ -113,7 +113,7 @@ Open-source VPNs offer transparency, enabling you to review the code (if you hav
 * **[StrongSwan](https://www.strongswan.org/)**: IPsec-based (Internet Protocol Security) VPN solution that is very secure and supports a variety of authentication methods. It is actively maintained and documented with regular updates. On the other hand, it is difficult to set up and primarily focused on IPsec, which might not be right for you.
 * **[WireGuard](https://www.wireguard.com/)**: it is a VPN protocol that was created to provide a faster, simpler, and easier-to-setup alternative to VPNs based on IPsec. It is relatively new and may not have as many features as more established protocols.
 * **[ProtonVPN](https://protonvpn.com/)**: Developed by the team behind ProtonMail, it focuses on privacy and security, with a strict no-logs policy and high-grade encryption.
-* **[Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)**: This VPN was developed by Mozilla. It is a very reliable open-source solution, it has more than 500 servers in 30+ countries and a very vivid community. 
+* **[Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)**: This VPN was developed by Mozilla. It is a very reliable open-source solution which has more than 500 servers in 30+ countries and a very vivid community. 
 
 ## 6.	Pros and cons of using open-source VPNs
 
