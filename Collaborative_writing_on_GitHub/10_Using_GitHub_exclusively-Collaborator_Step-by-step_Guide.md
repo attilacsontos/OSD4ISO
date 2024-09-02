@@ -1,6 +1,6 @@
 # 10. Using GitHub exclusively – Collaborator - Step-by-step Guide
 
-In this section, you can read a detailed, step-by-step guide about how to use only GitHub for collaboration. To demonstrate this, I created a new user called ‘Test-Collaborator-1’ and invited this user to collaborate and make a suggestion to improve a fictional piece of content. "Collaborator" is a specific status in Github. We use the word in line with the status as it is defined by Github.
+In this section, you can read a detailed, step-by-step guide about how to use only GitHub for collaboration. To demonstrate this, I created a new user called ‘Test-Collaborator-1’ and invited this user to collaborate and make a suggestion to improve a fictional piece of content. "Collaborator" is a specific status in GitHub. We use the word in line with the status as it is defined by GitHub.
 
 In this section, I will mostly speak in the first person singular to show what and how I did to make this article as simple and easy to follow as possible.
 
