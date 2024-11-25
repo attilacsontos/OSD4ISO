@@ -92,7 +92,7 @@ Additionally, backups can be damaged by natural disasters, flooding, flooding, e
 
 Knowing all this, it can be stated that in addition to local backup copies, another backup procedure is absolutely necessary: either data storage in another location (the data storage is stored in another closed location and the data is saved there with a specified regularity) or data storage in the cloud is also necessary.
 
-## 7.	Bacup files to the cloud
+## 7.	Backup files to the cloud
 
 Remote backup involves storing data on an online server. For example, the servers of cloud-based backup solutions are geographically separated from the physical locations of clients. Companies can subscribe to services for a fee, which may vary from provider to provider. It is worth comparing the quality of the services, the price, the rules for storing backup copies and more before choosing a service provider. If you don’t work with a lot of data, you can also choose a free version, but you can only store a small amount of data there (usually 5GB is the limit).
 
