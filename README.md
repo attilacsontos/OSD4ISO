@@ -1,10 +1,10 @@
 # OSD4ISO (Open Security Documentation for Individuals and Small Organisations)
 
-## This project aims to build community-centred documentation for freelancers, remote workers, and SOHO (Small Office/Home Office) workers to help them securely and safely operate online.
+## This project aims to build community-centered documentation for freelancers, remote workers, and SOHO (Small Office/Home Office) workers to help them securely and safely operate online.
 
-Individuals and SOHO workers are as exposed to online risks as anyone else. However, they often lack the resources to afford the security solutions and services available to more resourced entities.
+Individuals and SOHO workers are as exposed to online risks as anyone else. However, they often lack the resources to afford the security solutions and services available to bigger organisations.
 
-In this project, you will find practical guides designed to help you operate specific solutions necessary for remote work and interactions in a way that reduces the cyber risks you face.
+In this project, freelance and SOHO workers will find practical guides designed to help them operate specific solutions necessary for remote work and interactions in a way that reduces the cyber risks they face.
 
 Starting and operating a remote activity is inherently demanding, as it requires learning to operate many new solutions and technologies. Consequently, there is often a trade-off in terms of time and resources invested, with security not being prioritized as it is perceived as less urgent. However, cybersecurity is essential to ensure the success of a business, regardless of the industry in which the company operates.
 
