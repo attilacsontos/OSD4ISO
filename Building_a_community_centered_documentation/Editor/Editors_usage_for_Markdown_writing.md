@@ -22,11 +22,11 @@ Markdown is a lightweight markup language to add formatting elements to plaintex
 
 Intellij IDEA – Jetbrains - Markdown
 
-One is that it is a simple text formatting syntax that converts plain text to HTML. Another common reason many people use markdown is that it reduces the time spent on formatting and fixing formatting problems.
+One is that it is a simple text formatting syntax that can easily be converted from plain text to HTML. Another common reason many people use markdown is that it reduces the time spent on formatting and fixing formatting problems.
 
 ## 2. What are markdown editors?
 
-Markdown editors are tools that help content creators format their work for the web using basic markup languages, such as hashtags, and save it in a format that can be brought to life in a wide variety of applications, regardless of the operating system. 
+Markdown editors are tools that help content creators format their work for the web using basic markup tags or balises, such as hashtags, and save it in a format that can be brought to life in a wide variety of applications, regardless of the operating system. They are specifically deisgned to highlight Markdown syntax.
 
 The markups are simple and easy to use to create lists, headers, and other types of content. Markdown files can be used in many writing applications or content publishing tools.
 
@@ -37,23 +37,22 @@ A typical markdown editor user interface of [MarkdownPad](http://markdownpad.com
 
 Most content creators use WYSIWYG "what you see is what you get" editors (such as Word, Pages, or Google Docs). These show exactly how your content will look after saving or publishing them online. 
 
-One of the disadvantages of using them is that unless you use a style sheet, designing the content often takes more time than creating the content itself. Most users don't use a style sheet but inline formatting, which means they format the given content element individually. After a while (especially if it is a more extensive document), different styles may appear between these content elements.
+One of the disadvantages of using them is that unless you use a style sheet, designing the content often takes more time than creating the content itself. Most users don't use a style sheet but inline formatting, which means they format the given content element individually. After a while (especially if it is a more extensive document), differences in styles may appear between these content elements.
 
-Let's not even talk about the situation when one person does not prepare a given document; however, different people from different departments of a company start formatting the different content elements differently. And let's admit that this previous example is not out of the ordinary but very common.
+The issue becomes more dire when a document is being written and designed by several persons. They may have different versions of the same application, having slightly different features in particular with regard to styles management. This can lead to lengthy and unnecessary formatting sessions. And let's admit that this previous example is not out of the ordinary but very common.
 
-Not to mention that these applications (for instance, Word, Google Docs, Pages, etc.) are not free, and the content created with them can only be opened and edited with them.
+Not to mention that these applications (for instance, Word, Google Docs, Pages, etc.) are not free, and they use most of the time a proprietary format for storing data, i.e. the content created with them can only be opened and edited with them.
 
 The limitations of platform dependency can also be a problem for personal use, but this is even more obvious at the corporate level: content created in Word is often only one stage of a workflow, and the doc/docx file must be converted, imported, etc., so that it can be used in other systems.
 
-Markdown provides a one-step solution to the above problems. Its syntax works like a style sheet in, e.g. Word: it unifies the design, and the generated code can be easily exported and, depending on the editor, can be used on any platform. 
+Markdown provides a one-step solution to the above problems. Its syntax works like a style sheet inside a text processing application: it unifies the design, and the generated code is in text format, which can be easily exported and, depending on the editor, can be used on any platform. 
 
 Learning the basic markdown syntax can be measured in minutes/hours. At the same time, e.g. in the case of Word, the most common word processor, it can take up to weeks and months before a complete novice user can use the application at a professional level.
 
 The usage of markdown is common and widely supported. No matter what you write or where you want to import it, finding a tool that can correctly read Markdown formatting and use the created content on another platform or application is easy.
 
-It is strange that, while Word is one of Microsoft's most complex products and its spectrum of functions is very broad, it is still the most widespread text editor worldwide. However, the vast majority of users use a fraction of Word's functions at a professional level, and there are many Word functions that they have never used or even heard of in their lives.
 
-Despite everything, many Word users are still reluctant to use any markdown editor, even though the learning curve would be much shorter for them if they used one, so they could reach a more productive level sooner.
+Despite everything, many users of WYSIWYG applications are still reluctant to use any markdown editor, even though the learning curve would be much shorter for them if they used one, so they could reach a more productive level sooner.
 
 In standard word processors, you usually structure your text by adjusting its appearance on the go. In the case of using the markdown editor, the user can pay more attention to the content and the structure of the text since, instead of the design, you only have to focus on the content.
 
@@ -72,29 +71,29 @@ If you want to look for a markdown editor on the Internet, you will be surprised
 There are also pages on the Internet where you can find lists of different markdown editors, read about their properties, and compare them based on their features.
 
 ![](http://hdoc.csirt-tooling.org/uploads/upload_e0c8564dda8c6bb79622f2107be61a55.png)
-Markdown Guide – [editors list](https://www.markdownguide.org/tools/)
+For example : Markdown Guide – [editors list](https://www.markdownguide.org/tools/)
 
 ## 5. Comparison of some markdown editors
 
-In the following, without claiming to be complete, we present some editors that we can recommend. The list is only a recommendation, and the order of the editors cannot be considered as any comparable order; only a couple of selected examples are shown.
+In the following, without claiming to be complete, we present some editors that are among the most known. The list is obviously not comprehensive and would benefit from a community based feedbck. The order of the editors cannot be considered as a ranking.
 
 ### 5.1. Ulysses
 
-If you only want to write on macOS, iOS and iPadOS, then [Ulysses](https://ulysses.app/) is one of the best markdown editors. 
+On macOS, iOS and iPadOS [Ulysses](https://ulysses.app/) appears as one of the most popular markdown editors. 
 
-Its built-in proofreader, style checker, and editing assistant are available in 20 languages. At the same time, its exporting features can turn your content into Word, PDF, epubs or blog posts (Ghost, WordPress, Medium, Microblog, etc.) with a single click. 
+Its built-in proofreader, style checker, and editing assistant are available in 20 languages. At the same time, its exporting features can turn the content into Word, PDF, epubs or blog posts (Ghost, WordPress, Medium, Microblog, etc.) with a single click. 
 
-All your content is stored in the Ulysses library and seamlessly syncs across all connected devices, making your workflow smoother. It is a very reliable, feature-rich application that both novice content creators and professional writers can use.
+All the content is stored in the Ulysses library and seamlessly synchronised across all connected devices, making the writing workflow smoother. It has a reputation of being a reliable, feature-rich application that both novice content creators and professional writers can use.
 
 ![](http://hdoc.csirt-tooling.org/uploads/upload_1ab56bb6738c90d0e9299f27acf4cb8b.png)
 
 The UI of Ulysses with Split View Editor – [The Sweet Setup](https://thesweetsetup.com/ulysses-15-introduces-split-view-editor-new-image-export-and-previewing-features-and-keyword-management-improvements/)
 
-Although the application is not free, if someone is looking for a professional, reliable tool, the [$40 per year](https://ulysses.app/pricing/) subscription is well worth it. The very detailed [online help](https://help.ulysses.app/kb/en), [video library](https://help.ulysses.app/kb/en/guides-124696) and [How to guide](https://help.ulysses.app/kb/en/faq-107238) also serve to familiarise yourself with and easily master the application quickly.
+Although the application is not free, if someone is looking for a professional, reliable tool, the [$40 per year](https://ulysses.app/pricing/) subscription can be considered as worth it. The very detailed [online help](https://help.ulysses.app/kb/en), [video library](https://help.ulysses.app/kb/en/guides-124696) and [How to guide](https://help.ulysses.app/kb/en/faq-107238) also serve to familiarise with and easily master the application quickly.
 
 ### 5.2. Inspire Writer
 
-If you favour Windows, I can recommend [Inspire Writer](https://www.inspire-writer.com/), the sister program of Ulysses. 
+On Windows systems, [Inspire Writer](https://www.inspire-writer.com/) can be considered as the sister program of Ulysses. 
 
 Inspire has a clean user interface, divided into three large parts: on the left pane, we see a folder structure. Next to it is a list of our already prepared documents, while on the right side, the editing interface fills most of the screen.
 
@@ -108,7 +107,7 @@ Although there is a knowledgebase on the website of Inspire, it is more like a c
 
 ### 5.3. iA Writer
 
-If you want a cross-platform solution that uses the same interface on Windows, macOS, iOS, and Android platforms, [iA Writer](https://ia.net/writer) is your perfect choice. It started its conquering journey in 2010, and at that time, it was almost the only markdown text editor for anything.
+For a cross-platform solution that uses the same interface on Windows, macOS, iOS, and Android platforms, [iA Writer](https://ia.net/writer) is an interesting choice. It started its journey in 2010, and at that time, it was almost the only markdown text editor for anything.
 
 Of course, the number of competitors has grown significantly over the past ten years. However, it was an unavoidable application among cross-platform editors for a very long time until Typora appeared.
 
@@ -116,9 +115,9 @@ Of course, the number of competitors has grown significantly over the past ten y
 
 ### 5.4. Typora
 
-[Typora](https://typora.io/) is a mature text editor that can be used on Windows, macOS and Linux systems. The program was in beta for quite a long time, and anyone could freely download and use it without restrictions. But the final version was released, which is no longer free. 
+[Typora](https://typora.io/) is a mature text editor that can be used on Windows, macOS and Linux systems. The program was in beta for quite a long time, and anyone could freely download and use it without restrictions. But the final version was finally released, which is no longer free. 
 
-If you need an excellent texting app with many [built-in themes](https://theme.typora.io/), you should definitely give Typora a try. This program also has a very detailed [help](https://support.typora.io/): if you look at the [export options](https://support.typora.io/Export/), you can see countless solutions for exporting previously written content.
+It is  a texting app with many [built-in themes](https://theme.typora.io/). This program also has a very detailed [help](https://support.typora.io/). Its [export options](https://support.typora.io/Export/) are particularly comprehensive for exporting previously written content.
 
 ![](http://hdoc.csirt-tooling.org/uploads/upload_bf8a31e8fc8e33e740c363ca5df437b5.png)
 
@@ -126,27 +125,11 @@ The screenshot above shows a minimalist theme called Quartz, which is especially
 
 ### 5.5. Zettlr
 
-Zettlr is a free and open-source markdown application designed for academic writing. The user interface is as follows:
+Zettlr is a free and open-source markdown application initially designed for academic writing. The user interface is as follows:
 
 ![](http://hdoc.csirt-tooling.org/uploads/upload_5ee37473cb8c82be3dcef9d6fe69dd0d.png)
 
-Among other indicators, Zettlr uses [Matomo](https://matomo.org/) to collect the following data about you while using its website:
-
-* User IP address (anonymised: 192.168.xxx.xxx)
-* Date and time of the request
-* Title of the page being viewed (Page Title)
-* URL of the page being viewed (Page URL)
-* URL of the page that was viewed prior to the current page (Referrer URL)
-* Screen resolution being used
-* Time in local user's timezone
-* Files that were clicked and downloaded (Download)
-* Links to an outside domain that were clicked (Outlink)
-* Pages generation time (the time it takes for webpages to be generated by the webserver and then downloaded by the user: Page speed)
-* Location of the user: country, region, city, approximate latitude and longitude (Geolocation)
-* Main Language of the browser being used (Accept-Language header)
-* User Agent of the browser being used (User-Agent header)
-
-At the bottom of the privacy statement page, you can disable data collection (opt-out) and prevent the Web Analytics tool (Matomo) from storing this data about you.
+It is a very comprehensive solution, that can be used in any professional environment, beyond academy. It is supported by a vibrant community and can be considered as a mature application. It is available for Windows, Mac and Linux.
 
 Zettlr has a very detailed online help in six languages. The online help is written in Zettlr, so by visiting the help, you can get a perfect idea of the application's capabilities.
 
@@ -154,7 +137,7 @@ Zettlr has a very detailed online help in six languages. The online help is writ
 
 ### 5.6. Notepad++ 
 
-It is a very popular and open-source text editor which can be downloaded and used for free. It is worth knowing that Notepad++ is an editing program prepared to support several programming languages and document types and was primarily designed for programmers.
+It is a very popular and open-source text editor foe Windows, which can be downloaded and used for free. It is worth knowing that Notepad++ is an editing program prepared to support several programming languages and document types and was primarily designed for programmers. 
 
 ![](http://hdoc.csirt-tooling.org/uploads/upload_d9e497513717d47ca848d60adf55131e.png)
 
@@ -162,14 +145,12 @@ What is Notepad++ - [official site](https://notepad-plus-plus.org/)
 
 ### 5.7. HedgeDoc
 
-This app was initially created as HackMD; later, HackMD became CodiMD which lived alongside [HedgeDoc](https://hedgedoc.org/) for almost a year until it finally got the name HedgeDoc. It's an [open-source](https://github.com/hedgedoc/hedgedoc), web-based, self-hosted markdown editor that lets you easily collaborate on notes, graphs, and presentations in real-time. All you have to do is share your note link with your colleagues, and they're good to go.
+This app was initially created as HackMD; later, HackMD became CodiMD which lived alongside [HedgeDoc](https://hedgedoc.org/) for almost a year until it finally got the name HedgeDoc. It's an [open-source](https://github.com/hedgedoc/hedgedoc), web-based, self-hosted markdown editor that lets you easily collaborate on notes, graphs, and presentations in real-time. All you have to do is share a note URL (link) with the colleagues involved in producing the document, and they're good to go.
 
 ![](http://hdoc.csirt-tooling.org/uploads/upload_2bf7ebc0bc07b0b88f8288bc0379b675.png)
 
-Its documentation is very detailed: the [Getting Started Guide](https://docs.hedgedoc.org/setup/getting-started/), the [Configuration Guide](https://docs.hedgedoc.org/configuration/), the [Developer Guide](https://docs.hedgedoc.org/dev/getting-started/), the [Online Help](https://docs.hedgedoc.org/) and other useful information are all available on the software's website. Besides the FAQ, you may also ask direct questions on Matrix and Discourse.
+Its documentation is very detailed: the [Getting Started Guide](https://docs.hedgedoc.org/setup/getting-started/), the [Configuration Guide](https://docs.hedgedoc.org/configuration/), the [Developer Guide](https://docs.hedgedoc.org/dev/getting-started/), the [Online Help](https://docs.hedgedoc.org/) and other useful information are all available on the software's website. Besides the FAQ, It's also possible to ask direct questions on Matrix and Discourse.
 
-The company pays particular attention to cybersecurity threats and the dangers of possible data loss.
-Previously, a headless instance of Chromium was used to generate PDFs, but this led to some security vulnerabilities and was deactivated. Until this feature is safely implemented again, a workaround should be used to generate PDFs from markdown code.
 
 ## 6. What concerns may we have about online markdown editors?
 
