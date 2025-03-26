@@ -31,11 +31,11 @@ You may also use [**other sources and tools for free images**](https://buffer.co
 
 The method is the same, but the link to the image points to the service provider’s page (where the image is stored). So instead of using this:
 
-  **![Alt text](/relative path of the image/img.jpg "Optional title")**
+>  **![Alt text](/relative path of the image/img.jpg "Optional title")**
 
 In the markdown file, you may use something like the below:
 
- > ![Alley, Street, Umbrellas image from Pixabay Image by Fabien - Pixabay Ambassador from Pixabay](/ https://cdn.pixabay.com/photo/2023/10/02/16/20/alley-8289479_1280.jpg “Street Umbrellas”)
+ >  ![Alley, Street, Umbrellas image from Pixabay Image by Fabien - Pixabay Ambassador from Pixabay](/ https://cdn.pixabay.com/photo/2023/10/02/16/20/alley-8289479_1280.jpg “Street Umbrellas”)
 
 So, if you use the above reference in your markdown file, the below image will show on the screen:
 
