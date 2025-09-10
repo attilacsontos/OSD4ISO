@@ -39,7 +39,6 @@ Do not hesitate to take an active part in this project and share your experience
 * **GitHub**
     * [**Build a community-centered documentation**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/Build_a_community_centered_documentation)
     * [**Git and GitHub**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/Git_and_GitHub)
-    * Github Pages - Usage and collaboration
     * [**How to use GitHub Pages and Markdown**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/How_to_use_GitHub_Pages_and_Markdowm)
 
   * **Editor**
