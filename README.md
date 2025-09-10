@@ -41,7 +41,7 @@ Do not hesitate to take an active part in this project and share your experience
     * [**Git and GitHub**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/Git_and_GitHub)
     * [**How to use GitHub Pages and Markdown**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/GitHub/How_to_use_GitHub_Pages_and_Markdowm)
 
-  * **Editor**
+* **Editor**
     * [**Editors usage for Markdown writing**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/Editor/Editors_usage_for_Markdown_writing)
     * [**VS Code basic operations for a writer**](https://attilacsontos.github.io/OSD4ISO/Building_a_community_centered_documentation/Editor/VS_Code_basic_operations_for_a_writer)
 
